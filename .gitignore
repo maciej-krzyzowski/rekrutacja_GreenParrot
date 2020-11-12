@@ -1,0 +1,12 @@
+.DS_Store
+wp-config.php
+*.log
+*.sql
+*.sqlite
+.git
+.git-credentials
+wp-content/*
+!wp-content/languages/
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
